@@ -24,7 +24,7 @@ Cricketer player3=new Cricketer();
 
 player1.Data(1 ," Babar Azam"," t20");
 player2.Data(2 ," David Malan"," t20");
-player1.Data(3 ," Virat kholi"," t20");
+player3.Data(3 ," Virat kholi"," t20");
 
 }
 }
